@@ -5,4 +5,3 @@ In this repository i am trying to answer numerical questions in the "Bayesian Mo
 
 Freely available here: https://www.cns.nyu.edu/malab/bayesianbook.html
 
-email me if you want to contribute : armintoghi85@gmail.com
